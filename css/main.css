@@ -1339,6 +1339,9 @@ ul.social-links li:last-child a {
 .skill-percentage.skill-8 {
   width: 77%;
 }
+.skill-percentage.skill-50p {
+  width: 50%;
+}
 /* Skills */
 
 

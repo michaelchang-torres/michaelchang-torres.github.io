@@ -165,7 +165,7 @@
             items: 1,
             autoplay: true,
             autoplayHoverPause: false,
-            autoplayTimeout: 2000,
+            autoplayTimeout: 3500,
             animateOut: 'zoomOut',
             animateIn: 'zoomIn'
         });
